@@ -5,8 +5,6 @@ http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
 */
 
-=======
->>>>>>> 5e8c7d99af02362125a46c8df141a4f54f21352e
 /* Menu */
 
 #menu {
@@ -48,7 +46,6 @@ Released for free under a Creative Commons Attribution 2.5 License
     background: #2A2A2A url(images/img03.jpg);
 }
 
-<<<<<<< HEAD
 #logo h1, #logo h2 {
     margin-right: 440px;
     text-align: center;
@@ -63,7 +60,6 @@ Released for free under a Creative Commons Attribution 2.5 License
 
 #logo h2 {
     font-size: 85%;
-=======
 #logo .h1, #logo .h2 {
 	margin-right: 440px;
 	text-align: center;
@@ -79,7 +75,6 @@ Released for free under a Creative Commons Attribution 2.5 License
 
 #logo .h2 {
 	font-size: 85%;
->>>>>>> 5e8c7d99af02362125a46c8df141a4f54f21352e
 }
 
 #logo a {
@@ -318,11 +313,9 @@ hr {
     color: #666666;
 }
 
-<<<<<<< HEAD
 #searchform > input{
     width: 180px;
 }
-=======
 /* Miro CSS */
 
 body {
@@ -450,4 +443,3 @@ footer a {
 }
 
 
->>>>>>> 5e8c7d99af02362125a46c8df141a4f54f21352e
